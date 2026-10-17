@@ -1,0 +1,20 @@
+table{
+    border-color: #c084fc;
+    border-radius: 3px;
+    background: #7e57c2;
+    color: #ffffffff;
+    text-align: center;
+    align-items: center;
+}
+td{
+    background-color: #f3e8ff;
+    color: #6b21a8;
+}
+a{
+    text-decoration:none;
+    text-align: center;
+    box-shadow: 02px 8px #e9d5ff;
+}
+a:hover{
+    text-decoration:underline;
+}
